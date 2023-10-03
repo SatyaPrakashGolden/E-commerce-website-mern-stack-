@@ -32,5 +32,6 @@ To get started with the frontend, follow these steps:
   ```bash
    npm start
 
+#
 Please replace `[List your key features here]`, `[Describe any notable functionalities or technologies used in your project]`, and other placeholders with relevant details about your project. This comprehensive README will help users and collaborators understand and work with your e-commerce website project effectively.
 
